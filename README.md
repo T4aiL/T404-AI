@@ -15,3 +15,7 @@ https://pl.wikipedia.org/wiki/Architektura_informacji
 https://digitalhill.pl/blog/jak-zaprojektowac-optymalna-architekture-informacji-ia/
 
 https://www.elementtalks.com/articles/227-architektura-informacji-co-to-takiego/
+
+https://www.copywriting.pl/
+
+https://youtu.be/02-mZfAawdo
