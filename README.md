@@ -8,6 +8,8 @@
 3. Copywrighting
 4. UX/UI (funkcja - forma) 
 
+[The most common HTML mistake that I see](https://www.youtube.com/watch?v=NexL5_Vdoq8)
+
 ### Links
 
 https://pl.wikipedia.org/wiki/Architektura_informacji
